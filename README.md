@@ -6,15 +6,16 @@ Basic Python Program to perform Web scaping on the r/malaysia subeddit, filterin
 * Python 3.9.13 or newer
 
 ## How to use
+Download the .py file
 Open Terminal
 ```bash
-# Change Terminal directory
+# Change Terminal directory to where the file is located
 cd /path/to/your/directory
 
-# Install required library
+# Install the required library
 pip install requests
 
-# Run python file through terminal
-python webscrape.py
+# Run the file through the terminal with python
+python webscraping.py
 ```
 Open Reddit_post.json file stored within the same directory
